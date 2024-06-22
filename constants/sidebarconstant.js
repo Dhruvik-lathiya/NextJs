@@ -1,0 +1,27 @@
+export const sidebarLinks = [
+    {
+        label:'Upcoming',
+        imgUrl:'@/img/img_name',
+        route:'/upcoming-meet'
+    },
+    {
+        label:'Previous',
+        imgUrl:'',
+        route:'/previous-meet'
+    },
+    {
+        label:'',
+        imgUrl:'',
+        route:''
+    },
+    {
+        label:'',
+        imgUrl:'',
+        route:''
+    },
+    {
+        label:'',
+        imgUrl:'',
+        route:''
+    }
+]
